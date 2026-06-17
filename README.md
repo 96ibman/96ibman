@@ -2,7 +2,7 @@
 
 `AI M.Sc. Student | Backend AI Engineer`
 
-> Fun Fact: I enjoy tutoring and creating educational content
+> Fun Fact: I enjoy learning new concepts and creating educational content
 
 
 ### 🌐 Quick Links
