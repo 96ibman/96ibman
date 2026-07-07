@@ -2,22 +2,28 @@
 
 `AI M.Sc. Student | Backend AI Engineer`
 
-> Fun Fact: I enjoy learning new concepts and creating educational content
+> Fun Fact: I enjoy tutoring and creating educational content
 
 
 ### 🌐 Quick Links
 
-- 👨‍💻 Website/Resume: https://96ibman.github.io/ibrahim-nasser/
+- 👨‍💻 Website/CV: https://96ibman.github.io/ibrahim-nasser/
 - 📝 Blog: https://96ibman.github.io/
 - 💼 LinkedIn: https://linkedin.com/in/ibrahimnasser96
+
+### ☕To Support
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/ibrahimnasser)
 
 ### 🚀 Highlights
 
 - [Symbolic-AI](https://github.com/96ibman/Symbolic-AI): Structured study material on symbolic AI covering logic, search, CSPs, theorem proving, and formal systems.
+- [Subsymbolic-AI](https://github.com/96ibman/Subsymbolic-AI): Following on [Symbolic-AI](https://github.com/96ibman/Symbolic-AI), here we enter the world of uncertainty!
 - [Resume Boilerplate](https://github.com/96ibman/resume-boilerplate): YAML-driven LaTeX resume generator using Pandoc and Make for reproducible PDF builds.
 - [Sentiment Analysis](https://github.com/96ibman/FastAPI_sentimentAnalysis_Streamlit): FastAPI + Streamlit sentiment analysis app using a Hugging Face transformer with deployed API backend.
 - [Image Captioning](https://github.com/96ibman/image_captioning_gradio): Gradio vision-language app using a BLIP model to generate captions for uploaded images.
 - [Object Detection](https://github.com/96ibman/YOLOVision_Streamlit_HuggingFace): Streamlit YOLOv5 demo for real-time object detection with lightweight CPU inference.
+
 
 ### 💻 Programming Languages
 
@@ -86,13 +92,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![Pandoc](https://img.shields.io/badge/Pandoc-000000?style=flat)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)
 
-### 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=96ibman&show_icons=true&locale=en&layout=compact" alt="96ibman" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=96ibman&show_icons=true&locale=en" alt="96ibman" />
-</p>
